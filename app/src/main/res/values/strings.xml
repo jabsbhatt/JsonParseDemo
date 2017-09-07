@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JsonParseDemo</string>
+
+    <string name="msg_network_error">Network Error</string>
+    <string name="msg_internet_connection">Opps! please check your internet connection. !Try again later.</string>
+</resources>
